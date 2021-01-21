@@ -2,16 +2,11 @@
 
 A compilation of React Patterns, techniques, tips and tricks.
 
-**Gitbook format**: https://vasanthk.gitbooks.io/react-bits
+**Gitbook format**: https://bvf-alec.gitbooks.io/react-bits
 
-**Github repo**: https://github.com/vasanthk/react-bits
+**Github repo**: https://github.com/doc22940/react-bits
 
 > Your contributions are heartily ♡ welcome. (✿◠‿◠)
-
-> **Translations by community:**
-> - 中文版 (Chinese): [react-bits-cn](https://github.com/hateonion/react-bits-CN)
-> - 한국어 (Korean): [react-bits-ko](https://github.com/rayleighko/react-bits-ko)
-
 
 - Design Patterns and Techniques
   - [Conditional in JSX](./patterns/18.conditionals-in-jsx.md)
